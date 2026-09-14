@@ -124,7 +124,7 @@ In this challenge, SSH is useful because we first need to connect to **App Serve
 
 ---
 
-## 🛠️ Solution
+## Solution
 
 ### Step 1 — Connect to App Server 3
 
@@ -180,7 +180,7 @@ The username being created.
 
 ---
 
-## 🔎 Verification
+## Verification
 
 ### Method 1 — Check `/etc/passwd`
 
@@ -224,7 +224,7 @@ This is generally more convenient when `/etc/passwd` contains many users.
 
 ---
 
-## 🧪 Optional Test
+## Optional Test
 
 We can also test whether `john` can obtain an interactive shell:
 
